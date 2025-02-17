@@ -1,0 +1,33 @@
+body{
+    background-image: url('vegetable\ salad.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+
+}
+h1, h2 {
+    color: #4CAF50;
+}
+
+.ingredients ul, .instructions ol {
+    padding-left: 20px;
+}
+
+.ingredients ul li, .instructions ol li {
+    margin-bottom: 10px;
+}
+*{
+    font-family: 'Roboto Slab',serif;
+    
+    }
+section{
+    font-size: large;
+}
